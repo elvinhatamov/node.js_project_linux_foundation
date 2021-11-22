@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "sass": "sass --watch src/scss/main.scss:public/css/main.css"
+  },
+  "dependencies": {
+    "minimist": "^1.2.5"
+  }
+}
